@@ -33,7 +33,7 @@ are defined and accessed.
 This change resolves the problems created by
 symbol library ordering in Eeschema.  It also provides some new
 features such as platform independence and lazy library loading.
-KiCad users should be familiar with the design and concept so this
+_KiCad users should be familiar with the design and concept_ `*Nope*` so this
 is not a tutorial on how to configure your symbol library table.
 It is important information that you need to properly convert
 your existing schematics to use the symbol library table.
